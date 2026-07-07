@@ -1,14 +1,12 @@
-## Hi there 👋
-
-# Hi, I'm Your Name 👋
+# Hi, I'm Nicole_de_dee 👋
 
 ## About Me
 - 🌱 I'm currently learning Git and version control
 - 💻 I'm interested in your interests e.g. cloud computing, web dev
-- 📫 How to reach me: your email or social link
+- 📫 How to reach me: email : thawthawdizin04@gmail.com
 
 ## Projects
-- [git-learning-log](https://github.com/your-github-username/git-learning-log) - My first Git project tracking a learning log
+- [git-learning-log](https://github.com/Nicole0498/git-learning-log) - My first Git project tracking a learning log
 
 <!--
 **Nicole0498/Nicole0498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
